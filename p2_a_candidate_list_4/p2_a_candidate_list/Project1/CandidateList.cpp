@@ -1,7 +1,5 @@
 /*
     Hongchang Jiang
-    Khang Tran
-    James Zhao
 
     12/6/2020
 
